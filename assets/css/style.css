@@ -4,9 +4,6 @@
     margin: 0;
 }
 
-/*There was once a warrior 
-who faced a thousand demons.*/
-
 body {
     background-color: #d9dcd6;
 }
@@ -52,10 +49,6 @@ a {
 p {
     font-size: 16px;
 }
-
-/*The devil came to the warrior 
-and whispered, 
-"You shall not survive the oncoming storm."*/
 
 .hero {
     height: 800px;
@@ -167,5 +160,3 @@ and whispered,
 .footer h2 {
     font-size: 20px;
 }
-
-/*To which the warrior whispered back "I am the storm."
